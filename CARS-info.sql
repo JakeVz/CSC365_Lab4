@@ -1,5 +1,5 @@
 -- Abhinav Singh and Jake Veazey
--- asingh54@calpoly.edu and  
+-- asingh54@calpoly.edu and wveazey@calpoly.edu 
 
 -- Reports the name and YearMade of each renault
 SELECT c.Description, d.YearMade

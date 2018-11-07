@@ -1,8 +1,9 @@
 -- Abhinav Singh and Jake Veazey
--- asingh54@calpoly.edu 
+-- asingh54@calpoly.edu and wveazey@calpoly.edu 
 
 
---This should output all students first and last names, sorted by last name for
+
+-- This should output all students first and last names, sorted by last name for
 -- anyone in classroom 111
 
 SELECT FirstName, LastName
